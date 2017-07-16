@@ -1,1 +1,19 @@
-
+recon-ng - to start from terminal 
+show workspaces
+workspaces add facebook - to add facebook 
+use netcraft 
+  > set source facebook.com
+show options
+run
+show hosts - to display findings in a good way
+use resolve - to list recons
+use recon/hosts-hosts/resolve - get ip
+run - again to populate ip
+use freegeoip - to get location
+run - again to populate locations
+use report
+use reporting/html
+set CREATOR name
+set CUSTOMER name
+set FILENAME /location
+run - to export 
