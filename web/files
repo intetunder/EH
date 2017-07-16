@@ -1,1 +1,3 @@
 dirb [target] [wordlist] [options]
+
+check robots.txt to see what they try to hide
